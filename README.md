@@ -1,16 +1,12 @@
-### Hi there 👋
+## Sobre Mim
+Olá! Meu nome é João Lucas e sou um desenvolvedor de software apaixonado por criar soluções inovadoras e de alto desempenho. Tenho experiência em diversas áreas da programação, incluindo desenvolvimento web e aplicativos desktop. Estou constantemente buscando aprender e me aprimorar, sempre disposto a enfrentar novos desafios e colaborar em projetos interessantes.
 
-<!--
-**joao-lucas04/joao-lucas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias Principais
+- **JavaScript (JS)**
+- **HTML e CSS**
+- **C#**
+- **Java**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- LinkedIn: colocar ainda
+- E-mail: joaolucas.anjospinto@gmail.com.com
