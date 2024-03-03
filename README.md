@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
-![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-lucas04&show_icons=true&theme=tokyonight)
+![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-lucas04&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lucas04&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias utilizadas no meu dia
