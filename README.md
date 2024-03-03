@@ -14,6 +14,6 @@
   <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
 
-Busco constantemente aprender e colaborar em projetos desafiadores e encontrar soluções inovadoras.
+Busco constantemente aprender e colaborar em projetos desafiadores, sempre encontrando soluções inovadoras.
 
 ## Últimos Projetos:
