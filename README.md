@@ -3,6 +3,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 ![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-lucas04&show_icons=true&theme=tokyonight)
+![Donut Chart](https://chart.googleapis.com/chart?cht=p3&chd=t:60,40&chs=250x100&chl=JavaScript|HTML/CSS)
 
 ## Tecnologias utilizadas no meu dia
 <div style="display: inline_block">
