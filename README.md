@@ -4,4 +4,4 @@
 
 ![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-lucas04&show_icons=true&theme=tokyonight)
 
-## Tecnologias utilizadas no dia a dia
+## Tecnologias utilizadas no meu dia
