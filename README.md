@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_lucasdosanjos/)
 
 ![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-lucas04&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lucas04&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lucas04&layout=compact&theme=tokyonight)
 
 ## Tecnologias utilizadas no meu dia
 <div style="display: inline_block">
